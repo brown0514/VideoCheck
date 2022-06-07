@@ -1,0 +1,1456 @@
+﻿Started
+
+getFiles initilized. Path = C:\Users\micha\source\repos\VideoCheck\x64\Debug
+getFiles initilized. Path = C:\Users\micha\source\repos\VideoCheck\x64\Debug\VideoValidator.tlog
+getFiles initilized. Path = C:\Users\micha\source\repos\VideoCheck\x64\Debug
+Showing results from 2 files found
+File 0 out of 2 C:\Users\micha\source\repos\VideoCheck\x64\Debug\DJI_0750.MP4
+=> Error opening file
+File C:\Users\micha\source\repos\VideoCheck\x64\Debug\DJI_0750.MP4 can't be opened
+
+=> Video file has no audio
+File C:\Users\micha\source\repos\VideoCheck\x64\Debug\no audio.mp4 has no audio
+
+Started
+
+getFiles initilized. Path = C:\Users\micha\source\repos\VideoCheck\x64\Debug
+getFiles initilized. Path = C:\Users\micha\source\repos\VideoCheck\x64\Debug\VideoValidator.tlog
+getFiles initilized. Path = C:\Users\micha\source\repos\VideoCheck\x64\Debug
+Showing results from 2 files found
+File 0 out of 2 C:\Users\micha\source\repos\VideoCheck\x64\Debug\DJI_0750.MP4
+=> Error opening file
+File C:\Users\micha\source\repos\VideoCheck\x64\Debug\DJI_0750.MP4 can't be opened
+
+=> Video file has no audio
+File C:\Users\micha\source\repos\VideoCheck\x64\Debug\no audio.mp4 has no audio
+
+Completed
+Valid video files: 0
+Invalid files: 1
+No Audio: 0
+Started
+
+getFiles initilized. Path = C:\Users\micha\source\repos\VideoCheck\x64\Debug
+getFiles initilized. Path = C:\Users\micha\source\repos\VideoCheck\x64\Debug\VideoValidator.tlog
+getFiles initilized. Path = C:\Users\micha\source\repos\VideoCheck\x64\Debug
+Showing results from 2 files found
+File 0 out of 2 C:\Users\micha\source\repos\VideoCheck\x64\Debug\DJI_0750.MP4
+=> Error opening file
+File C:\Users\micha\source\repos\VideoCheck\x64\Debug\DJI_0750.MP4 can't be opened
+
+=> Video file has no audio
+File C:\Users\micha\source\repos\VideoCheck\x64\Debug\no audio.mp4 has no audio
+
+Completed 2 files
+Valid video files: 			0
+Invalid files: 			1
+No Audio: 			0
+Started
+
+getFiles initilized. Path = C:\Users\micha\source\repos\VideoCheck\x64\Debug
+getFiles initilized. Path = C:\Users\micha\source\repos\VideoCheck\x64\Debug\VideoValidator.tlog
+getFiles initilized. Path = C:\Users\micha\source\repos\VideoCheck\x64\Debug
+Showing results from 2 files found
+File 0 out of 2 C:\Users\micha\source\repos\VideoCheck\x64\Debug\DJI_0750.MP4
+=> Error opening file
+File C:\Users\micha\source\repos\VideoCheck\x64\Debug\DJI_0750.MP4 can't be opened
+
+=> Video file has no audio
+File C:\Users\micha\source\repos\VideoCheck\x64\Debug\no audio.mp4 has no audio
+
+Completed 2 files
+Valid video files: 			0
+Invalid files: 			1
+No Audio: 			1
+22.05.2022 11:12:20: Started
+
+22.05.2022 11:12:20: getFiles initilized. Path = C:\Users\micha\source\repos\VideoCheck\x64\Debug
+22.05.2022 11:12:20: getFiles initilized. Path = C:\Users\micha\source\repos\VideoCheck\x64\Debug\VideoValidator.tlog
+22.05.2022 11:12:20: getFiles initilized. Path = C:\Users\micha\source\repos\VideoCheck\x64\Debug
+22.05.2022 11:12:20: Showing results from 2 files found
+22.05.2022 11:12:20: File 0 out of 2
+22.05.2022 11:12:21: => Error opening file
+22.05.2022 11:12:21: File C:\Users\micha\source\repos\VideoCheck\x64\Debug\DJI_0750.MP4 can't be opened
+
+22.05.2022 11:12:21: => Video file has no audio
+22.05.2022 11:12:21: File C:\Users\micha\source\repos\VideoCheck\x64\Debug\no audio.mp4 has no audio
+
+22.05.2022 11:12:21: Completed 2 files
+Valid video files: 			0
+Invalid files: 			1
+No Audio: 			1
+22.05.2022 12:10:57: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls\nb-no
+22.05.2022 12:10:57: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls
+22.05.2022 12:10:57: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls\nl-nl
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls\pl-pl
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls\pt-br
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls\ro-ro
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls\root
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls\ru-ru
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls\sk-sk
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls\sl-si
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls\sl-sl
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls\sv-se
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls\tr-tr
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls\uk-ua
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls\zh-cn
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls\zh-tw
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js\nls
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary\js
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\search-summary
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\css
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign
+22.05.2022 12:10:58: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\images
+22.05.2022 12:10:59: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\images\themes
+22.05.2022 12:10:59: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\images\themes\dark
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\images\themes
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\images
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\ar-ae
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\ca-es
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\cs-cz
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\da-dk
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\de-de
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\en-ae
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\en-gb
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\en-il
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\es-es
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\eu-es
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\fi-fi
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\fr-fr
+22.05.2022 12:11:00: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\fr-ma
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\he-il
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\hr-hr
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\hu-hu
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\it-it
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\ja-jp
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\ko-kr
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\nb-no
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\nl-nl
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\pl-pl
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\pt-br
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\ro-ro
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\root
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\ru-ru
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\sk-sk
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\sl-si
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\sl-sl
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\sv-se
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\tr-tr
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\uk-ua
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\zh-cn
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls\zh-tw
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js\nls
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign\js
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\send-for-sign
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\css
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\images
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\ar-ae
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\ca-es
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\cs-cz
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\da-dk
+22.05.2022 12:11:01: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\de-de
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\en-ae
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\en-gb
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\en-il
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\es-es
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\eu-es
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\fi-fi
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\fr-fr
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\fr-ma
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\he-il
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\hr-hr
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\hu-hu
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\it-it
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\ja-jp
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\ko-kr
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\nb-no
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\nl-nl
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\pl-pl
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\pt-br
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\ro-ro
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\root
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\ru-ru
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\sk-sk
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\sl-si
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\sl-sl
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\sv-se
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\tr-tr
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\uk-ua
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\zh-cn
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls\zh-tw
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js\nls
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth\js
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\sign-services-auth
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\css
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures
+22.05.2022 12:11:02: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\images
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\images\themes
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\images\themes\dark
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\images\themes
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\images
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\ar-ae
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\ca-es
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\cs-cz
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\da-dk
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\de-de
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\en-ae
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\en-gb
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\en-il
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\es-es
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\eu-es
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\fi-fi
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\fr-fr
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\fr-ma
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:03: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\he-il
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\hr-hr
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\hu-hu
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\it-it
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\ja-jp
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\ko-kr
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\nb-no
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\nl-nl
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\pl-pl
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\pt-br
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\ro-ro
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\root
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\ru-ru
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\sk-sk
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\sl-si
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\sl-sl
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\sv-se
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\tr-tr
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\uk-ua
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\zh-cn
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls\zh-tw
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js\nls
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures\js
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\signatures
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\css
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\images
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js\nls
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js\nls\da-dk
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js\nls
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js\nls\de-de
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js\nls
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js\nls\en-gb
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js\nls
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js\nls\es-es
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js\nls
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js\nls\fi-fi
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js\nls
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js\nls\fr-fr
+22.05.2022 12:11:04: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js\nls
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js\nls\it-it
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js\nls
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js\nls\ja-jp
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js\nls
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js\nls\nb-no
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js\nls
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js\nls\nl-nl
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js\nls
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js\nls\pt-br
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js\nls
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js\nls\root
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js\nls
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js\nls\sv-se
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js\nls
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler\js
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\task-handler
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\css
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\images
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\images\email
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\images\email\dummy
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\images\email
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\images\email\themes
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\images\email\themes\dark
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\images\email\themes
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\images\email
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\images
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\images\themes
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\images\themes\dark
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\images\themes
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\images
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins
+22.05.2022 12:11:05: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\css
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\images
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\images\themes
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\images\themes\dark
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\images\themes
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\images
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\home-view
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\ar-ae
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\ca-es
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\cs-cz
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\da-dk
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\de-de
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\en-ae
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\en-gb
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\en-il
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\es-es
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\eu-es
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\fi-fi
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\fr-fr
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\fr-ma
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\he-il
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\hr-hr
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:06: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\hu-hu
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\it-it
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\ja-jp
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\ko-kr
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\nb-no
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\nl-nl
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\pl-pl
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\pt-br
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\ro-ro
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\root
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\ru-ru
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\sk-sk
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\sl-si
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\sl-sl
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\sv-se
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\tr-tr
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\uk-ua
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\zh-cn
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls\zh-tw
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js\tool
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send\js
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins\tracked-send
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\plugins
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\ar-ae
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\ca-es
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\cs-cz
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\da-dk
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\de-de
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\en-ae
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\en-gb
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\en-il
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\es-es
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\eu-es
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:07: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\fi-fi
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\fr-fr
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\fr-ma
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\he-il
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\hr-hr
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\hu-hu
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\it-it
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\ja-jp
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\ko-kr
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\nb-no
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\nl-nl
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\pl-pl
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\pt-br
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\ro-ro
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\root
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\ru-ru
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\sk-sk
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\sl-si
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\sl-sl
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\sv-se
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\tr-tr
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\uk-ua
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\zh-cn
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls\zh-tw
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer\nls
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js\viewer
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send\js
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\tracked-send
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\css
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share
+22.05.2022 12:11:08: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\images
+22.05.2022 12:11:09: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\images\themes
+22.05.2022 12:11:09: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\images\themes\dark
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\images\themes
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\images
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\ar-ae
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\ca-es
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\cs-cz
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\da-dk
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\de-de
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\en-ae
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\en-gb
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\en-il
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\es-es
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\eu-es
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\fi-fi
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\fr-fr
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\fr-ma
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\he-il
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\hr-hr
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\hu-hu
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\it-it
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\ja-jp
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\ko-kr
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\nb-no
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:10: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\nl-nl
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\pl-pl
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\pt-br
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\ro-ro
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\root
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\ru-ru
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\sk-sk
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\sl-si
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\sl-sl
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\sv-se
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\tr-tr
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\uk-ua
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\zh-cn
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls\zh-tw
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js\nls
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share\js
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\unified-share
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\css
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\ar-ae
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\ca-es
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\cs-cz
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\da-dk
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\de-de
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\en-ae
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\en-gb
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\en-il
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\eu-es
+22.05.2022 12:11:11: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\fi-fi
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\fr-fr
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\fr-ma
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\he-il
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\hr-hr
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\hu-hu
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\it-it
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\ja-jp
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\ko-kr
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\nb-no
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\nl-nl
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\pl-pl
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\pt-br
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\ro-ro
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\root
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\ru-ru
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\sk-sk
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\sl-si
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\sl-sl
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\sv-se
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\tr-tr
+22.05.2022 12:11:12: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:13: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\uk-ua
+22.05.2022 12:11:13: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:13: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\zh-cn
+22.05.2022 12:11:13: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:13: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls\zh-tw
+22.05.2022 12:11:13: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js\nls
+22.05.2022 12:11:13: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search\js
+22.05.2022 12:11:13: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\uss-search
+22.05.2022 12:11:13: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins
+22.05.2022 12:11:13: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through
+22.05.2022 12:11:13: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\css
+22.05.2022 12:11:13: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through
+22.05.2022 12:11:13: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\images
+22.05.2022 12:11:13: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\images\themeless
+22.05.2022 12:11:13: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\images
+22.05.2022 12:11:13: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\images\themes
+22.05.2022 12:11:13: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\images\themes\dark
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\images\themes
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\images
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js\nls
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js\nls\da-dk
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js\nls
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js\nls\de-de
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js\nls
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js\nls\en-gb
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js\nls
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js\nls\es-es
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js\nls
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js\nls\fi-fi
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js\nls
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js\nls\fr-fr
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js\nls
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js\nls\it-it
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js\nls
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js\nls\ja-jp
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js\nls
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js\nls\nb-no
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js\nls
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js\nls\nl-nl
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js\nls
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js\nls\pt-br
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js\nls
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js\nls\root
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js\nls
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js\nls\sv-se
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js\nls
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through\js
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins\walk-through
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\plugins
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js\versions
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static\js
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2\static
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources\Resource2
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\WebResources
+22.05.2022 12:11:14: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat
+22.05.2022 12:11:15: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\x86
+22.05.2022 12:11:15: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\x86\Acrobat
+22.05.2022 12:11:15: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat\x86
+22.05.2022 12:11:15: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Acrobat
+22.05.2022 12:11:15: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC
+22.05.2022 12:11:15: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Esl
+22.05.2022 12:11:15: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC
+22.05.2022 12:11:15: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Resource
+22.05.2022 12:11:15: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Resource\CMap
+22.05.2022 12:11:15: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Resource
+22.05.2022 12:11:15: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Resource\Font
+22.05.2022 12:11:15: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Resource\Font\Pfm
+22.05.2022 12:11:15: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Resource\Font
+22.05.2022 12:11:15: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Resource
+22.05.2022 12:11:15: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Resource\SaslPrep
+22.05.2022 12:11:15: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Resource
+22.05.2022 12:11:15: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Resource\TypeSupport
+22.05.2022 12:11:15: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Resource\TypeSupport\Unicode
+22.05.2022 12:11:15: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Resource\TypeSupport\Unicode\ICU
+22.05.2022 12:11:15: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Resource\TypeSupport\Unicode
+22.05.2022 12:11:15: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Resource\TypeSupport\Unicode\Mappings
+22.05.2022 12:11:15: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Resource\TypeSupport\Unicode\Mappings\Adobe
+22.05.2022 12:11:15: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Resource\TypeSupport\Unicode\Mappings
+22.05.2022 12:11:16: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Resource\TypeSupport\Unicode\Mappings\Mac
+22.05.2022 12:11:16: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Resource\TypeSupport\Unicode\Mappings
+22.05.2022 12:11:16: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Resource\TypeSupport\Unicode\Mappings\win
+22.05.2022 12:11:16: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Resource\TypeSupport\Unicode\Mappings
+22.05.2022 12:11:16: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Resource\TypeSupport\Unicode
+22.05.2022 12:11:16: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Resource\TypeSupport
+22.05.2022 12:11:16: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC\Resource
+22.05.2022 12:11:16: getFiles initilized. Path = c:\Program Files\Adobe\Acrobat DC
+22.05.2022 12:11:16: getFiles initilized. Path = c:\Program Files\Adobe
+22.05.2022 12:11:16: getFiles initilized. Path = c:\Program Files
+22.05.2022 12:11:16: getFiles initilized. Path = c:\Program Files\Application Verifier
+22.05.2022 12:11:16: getFiles initilized. Path = c:\Program Files
+22.05.2022 12:11:16: getFiles initilized. Path = c:\Program Files\Common Files
+22.05.2022 12:11:16: getFiles initilized. Path = c:\Program Files\Common Files\Adobe
+22.05.2022 12:11:16: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat
+22.05.2022 12:11:16: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\ActiveX
+22.05.2022 12:11:16: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat
+22.05.2022 12:11:16: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC
+22.05.2022 12:11:16: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics
+22.05.2022 12:11:16: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\LanguageNames2
+22.05.2022 12:11:18: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics
+22.05.2022 12:11:18: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers
+22.05.2022 12:11:18: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Adobe
+22.05.2022 12:11:18: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers
+22.05.2022 12:11:18: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2
+22.05.2022 12:11:18: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin
+22.05.2022 12:11:18: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Abbreviations
+22.05.2022 12:11:18: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Abbreviations\en_CA
+22.05.2022 12:11:18: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Abbreviations
+22.05.2022 12:11:18: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Abbreviations\en_GB
+22.05.2022 12:11:18: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Abbreviations
+22.05.2022 12:11:18: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Abbreviations\en_US
+22.05.2022 12:11:18: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Abbreviations
+22.05.2022 12:11:18: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin
+22.05.2022 12:11:18: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries
+22.05.2022 12:11:18: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\en_CA
+22.05.2022 12:11:18: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\en_GB
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\en_US
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\SupplementalDictionaries
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\SupplementalDictionaries\en_CA
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\SupplementalDictionaries
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\SupplementalDictionaries\en_GB
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\SupplementalDictionaries
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\SupplementalDictionaries\en_US
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\SupplementalDictionaries
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers\Plugins2
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics\Providers
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC\Linguistics
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\DC
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\Setup
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-1033-7760-BC15014EA700}
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-1033-7760-BC15014EA700}\Transforms
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-1033-7760-BC15014EA700}
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-1033-7760-BC15014EA700}\VCRT_x64
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\Setup\{AC76BA86-1033-1033-7760-BC15014EA700}
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\Setup
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\Setup Files
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\Setup Files\{AC76BA86-1033-1033-7760-BC15014EA700}
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\Setup Files\{AC76BA86-1033-1033-7760-BC15014EA700}\Transforms
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\Setup Files\{AC76BA86-1033-1033-7760-BC15014EA700}
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat\Setup Files
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\Acrobat
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\HelpCfg
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\HelpCfg\en_US
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe\HelpCfg
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\Adobe
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\AV
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\AV\Kaspersky Anti-Virus
+22.05.2022 12:11:19: getFiles initilized. Path = c:\Program Files\Common Files\AV
+22.05.2022 12:11:20: getFiles initilized. Path = c:\Program Files\Common Files\AV\Kaspersky Lab
+22.05.2022 12:11:20: getFiles initilized. Path = c:\Program Files\Common Files\AV
+22.05.2022 12:11:20: getFiles initilized. Path = c:\Program Files\Common Files
+22.05.2022 12:11:20: getFiles initilized. Path = c:\Program Files\Common Files\Cloanto
+22.05.2022 12:11:20: getFiles initilized. Path = c:\Program Files\Common Files\Cloanto\Software Director
+22.05.2022 12:11:20: getFiles initilized. Path = c:\Program Files\Common Files\Cloanto
+22.05.2022 12:11:20: getFiles initilized. Path = c:\Program Files\Common Files
+22.05.2022 12:11:20: getFiles initilized. Path = c:\Program Files\Common Files\DESIGNER
+22.05.2022 12:11:20: getFiles initilized. Path = c:\Program Files\Common Files
+22.05.2022 12:11:20: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared
+22.05.2022 12:11:20: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ClickToRun
+22.05.2022 12:11:20: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ClickToRun\backup
+22.05.2022 12:11:20: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ClickToRun
+22.05.2022 12:11:22: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ClickToRun\OnlineInteraction
+22.05.2022 12:11:22: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ClickToRun
+22.05.2022 12:11:22: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ClickToRun\Updates
+22.05.2022 12:11:22: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ClickToRun\Updates\16.0.15128.20224
+22.05.2022 12:11:22: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ClickToRun\Updates
+22.05.2022 12:11:22: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ClickToRun
+22.05.2022 12:11:22: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared
+22.05.2022 12:11:22: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:22: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\ar-SA
+22.05.2022 12:11:22: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:22: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\bg-BG
+22.05.2022 12:11:22: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:22: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\cs-CZ
+22.05.2022 12:11:22: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:22: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\da-DK
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\de-DE
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\el-GR
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\en-GB
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\en-US
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\es-ES
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\es-MX
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\et-EE
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\fi-FI
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\fr-CA
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\fr-FR
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\fsdefinitions
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\fsdefinitions\auxpad
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\fsdefinitions
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\fsdefinitions\insert
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\fsdefinitions
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\fsdefinitions\keypad
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\fsdefinitions
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\fsdefinitions\main
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\fsdefinitions
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\fsdefinitions\oskclearui
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\fsdefinitions
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\fsdefinitions\oskmenu
+22.05.2022 12:11:23: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\fsdefinitions
+22.05.2022 12:11:24: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\fsdefinitions\osknav
+22.05.2022 12:11:24: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\fsdefinitions
+22.05.2022 12:11:24: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\fsdefinitions\osknumpad
+22.05.2022 12:11:24: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\fsdefinitions
+22.05.2022 12:11:24: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\fsdefinitions\oskpred
+22.05.2022 12:11:24: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\fsdefinitions
+22.05.2022 12:11:24: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\fsdefinitions\symbols
+22.05.2022 12:11:24: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\fsdefinitions
+22.05.2022 12:11:24: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:24: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\he-IL
+22.05.2022 12:11:24: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:24: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\hr-HR
+22.05.2022 12:11:24: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:24: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\hu-HU
+22.05.2022 12:11:24: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:25: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\it-IT
+22.05.2022 12:11:25: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:25: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\ja-JP
+22.05.2022 12:11:25: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:25: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\ko-KR
+22.05.2022 12:11:25: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:25: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\lt-LT
+22.05.2022 12:11:25: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:25: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\lv-LV
+22.05.2022 12:11:25: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:25: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\nb-NO
+22.05.2022 12:11:25: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:25: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\nl-NL
+22.05.2022 12:11:25: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:25: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\pl-PL
+22.05.2022 12:11:25: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:25: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\pt-BR
+22.05.2022 12:11:25: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:25: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\pt-PT
+22.05.2022 12:11:25: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:25: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\ro-RO
+22.05.2022 12:11:25: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:11:25: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink\ru-RU
+22.05.2022 12:11:25: getFiles initilized. Path = c:\Program Files\Common Files\microsoft shared\ink
+22.05.2022 12:12:02: Started
+
+22.05.2022 12:32:42: Started
+
+22.05.2022 12:32:42: getFiles initilized. Path = C:\Users\micha\source\repos\VideoCheck\x64\Debug
+22.05.2022 12:32:42: getFiles initilized. Path = C:\Users\micha\source\repos\VideoCheck\x64\Debug\VideoValidator.tlog
+22.05.2022 12:32:42: getFiles initilized. Path = C:\Users\micha\source\repos\VideoCheck\x64\Debug
+22.05.2022 12:32:42: Showing results from 2 files found
+22.05.2022 12:32:42: File 0 out of 2
+22.05.2022 12:32:43: => Error opening file
+22.05.2022 12:32:43: File C:\Users\micha\source\repos\VideoCheck\x64\Debug\DJI_0750.MP4 can't be opened
+
+22.05.2022 12:32:43: => Video file has no audio
+22.05.2022 12:32:43: File C:\Users\micha\source\repos\VideoCheck\x64\Debug\no audio.mp4 has no audio
+
+22.05.2022 12:32:43: Completed 2 files
+Valid video files: 			0
+Invalid files: 			1
+No Audio: 			1
+22.05.2022 12:40:36: Started
+
+22.05.2022 12:40:36: getFiles initilized. Path = C:\Users\micha\source\repos\VideoCheck\x64\Release
+22.05.2022 12:40:36: getFiles initilized. Path = C:\Users\micha\source\repos\VideoCheck\x64\Release\VideoValidator.tlog
+22.05.2022 12:40:36: getFiles initilized. Path = C:\Users\micha\source\repos\VideoCheck\x64\Release
+22.05.2022 12:40:36: No files were found
+22.05.2022 12:40:36: Completed 0 files
+Valid video files: 			0
+Invalid files: 			0
+No Audio: 			0
+22.05.2022 12:41:05: Started
+
+22.05.2022 12:41:17: getFiles initilized. Path = C:\Users\micha\source\repos\VideoCheck\x64\Release
+22.05.2022 12:41:17: getFiles initilized. Path = C:\Users\micha\source\repos\VideoCheck\x64\Release\VideoValidator.tlog
+22.05.2022 12:41:17: getFiles initilized. Path = C:\Users\micha\source\repos\VideoCheck\x64\Release
+22.05.2022 12:41:19: No files were found
+22.05.2022 12:41:22: Completed 0 files
+Valid video files: 			0
+Invalid files: 			0
+No Audio: 			0
+22.05.2022 14:07:10: Started
+
+22.05.2022 18:30:06: Started
+
+22.05.2022 18:30:06: getFiles initilized. Path = C:\Users\RuthandMichael\Source\Repos\VideoCheck\x64\Release
+22.05.2022 18:30:06: getFiles initilized. Path = C:\Users\RuthandMichael\Source\Repos\VideoCheck\x64\Release\VideoValidator.tlog
+22.05.2022 18:30:06: getFiles initilized. Path = C:\Users\RuthandMichael\Source\Repos\VideoCheck\x64\Release
+22.05.2022 18:30:06: No files were found
+22.05.2022 18:30:06: Completed 0 files
+Valid video files: 			0
+Invalid files: 			0
+No Audio: 			0
+22.05.2022 19:53:21: Started
+
+22.05.2022 19:53:55: Started
+
+22.05.2022 19:53:55: getFiles initilized. Path = C:\Users\RuthandMichael\Source\Repos\VideoCheck\x64\Release
+22.05.2022 19:53:55: getFiles initilized. Path = C:\Users\RuthandMichael\Source\Repos\VideoCheck\x64\Release\VideoValidator.tlog
+22.05.2022 19:53:55: getFiles initilized. Path = C:\Users\RuthandMichael\Source\Repos\VideoCheck\x64\Release
+22.05.2022 19:53:55: No files were found
+22.05.2022 19:53:55: Completed 0 files
+Valid video files: 			0
+Invalid files: 			0
+No Audio: 			0
+22.05.2022 19:54:00: Started
+
+22.05.2022 19:54:00: getFiles initilized. Path = C:\Users\RuthandMichael\Source\Repos\VideoCheck\x64\Release
+22.05.2022 19:54:00: getFiles initilized. Path = C:\Users\RuthandMichael\Source\Repos\VideoCheck\x64\Release\VideoValidator.tlog
+22.05.2022 19:54:00: getFiles initilized. Path = C:\Users\RuthandMichael\Source\Repos\VideoCheck\x64\Release
+22.05.2022 19:54:00: No files were found
+22.05.2022 19:54:00: Completed 0 files
+Valid video files: 			0
+Invalid files: 			0
+No Audio: 			0
+22.05.2022 19:56:24: Started
+
+22.05.2022 19:56:24: getFiles initilized. Path = C:\Users\RuthandMichael\Source\Repos\VideoCheck\x64\Release
+22.05.2022 19:56:25: getFiles initilized. Path = C:\Users\RuthandMichael\Source\Repos\VideoCheck\x64\Release\VideoValidator.tlog
+22.05.2022 19:56:25: getFiles initilized. Path = C:\Users\RuthandMichael\Source\Repos\VideoCheck\x64\Release
+22.05.2022 19:57:03: Message 1: DBT_DEVNODES_CHANGED
+
+22.05.2022 19:57:03: Device changed: 
+22.05.2022 19:57:03: Message 2: DBT_DEVICEARRIVAL
+
+22.05.2022 19:57:03: Device changed: 
+22.05.2022 19:57:03: Message 3: DBT_DEVNODES_CHANGED
+
+22.05.2022 19:57:03: Device changed: 
+22.05.2022 19:57:04: Message 4: DBT_DEVNODES_CHANGED
+
+22.05.2022 19:57:04: Device changed: 
+22.05.2022 19:57:04: Message 5: DBT_DEVNODES_CHANGED
+
+22.05.2022 19:57:04: Device changed: 
+22.05.2022 19:57:04: Message 6: DBT_DEVNODES_CHANGED
+
+22.05.2022 19:57:04: Device changed: 
+22.05.2022 19:57:04: Message 7: DBT_DEVICEARRIVAL
+
+22.05.2022 19:57:04: Device changed: +E
+22.05.2022 19:57:04: Message 8: DBT_DEVNODES_CHANGED
+
+22.05.2022 19:57:04: Device changed: 
+22.05.2022 19:57:04: Message 9: DBT_DEVNODES_CHANGED
+
+22.05.2022 19:57:04: Device changed: 
+22.05.2022 19:57:09: Message 10: DBT_DEVNODES_CHANGED
+
+22.05.2022 19:57:09: Device changed: 
+22.05.2022 19:57:09: Message 11: DBT_DEVICEREMOVECOMPLETE
+
+22.05.2022 19:57:09: Device changed: 
+22.05.2022 19:57:09: Message 12: DBT_DEVNODES_CHANGED
+
+22.05.2022 19:57:09: Device changed: 
+22.05.2022 19:57:09: Message 13: DBT_DEVNODES_CHANGED
+
+22.05.2022 19:57:09: Device changed: 
+22.05.2022 19:57:09: Message 14: DBT_DEVICEREMOVECOMPLETE
+
+22.05.2022 19:57:09: Device changed: -E
+22.05.2022 20:03:17: Started
+
+22.05.2022 20:03:17: getFiles initilized. Path = C:\Users\RuthandMichael\Source\Repos\VideoCheck\x64\Release
+22.05.2022 20:03:17: Completed 0 files
+Valid video files: 			0
+Invalid files: 			0
+No Audio: 			0
+23.05.2022 09:05:33: Started
+
+23.05.2022 09:07:07: Message 1: DBT_DEVNODES_CHANGED
+
+23.05.2022 09:07:07: Device changed: 
+23.05.2022 09:07:07: getFiles initilized. Path = 
+23.05.2022 09:07:07: getFiles initilized. Path = .git
+23.05.2022 09:07:07: getFiles initilized. Path = .git\hooks
+23.05.2022 09:07:07: getFiles initilized. Path = .git
+23.05.2022 09:07:07: getFiles initilized. Path = .git\info
+23.05.2022 09:07:07: getFiles initilized. Path = .git
+23.05.2022 09:07:07: getFiles initilized. Path = .git\logs
+23.05.2022 09:07:07: getFiles initilized. Path = .git\logs\refs
+23.05.2022 09:07:07: getFiles initilized. Path = .git\logs\refs\heads
+23.05.2022 09:07:07: getFiles initilized. Path = .git\logs\refs
+23.05.2022 09:07:07: getFiles initilized. Path = .git\logs\refs\remotes
+23.05.2022 09:07:07: getFiles initilized. Path = .git\logs\refs\remotes\origin
+23.05.2022 09:07:07: getFiles initilized. Path = .git\logs\refs\remotes
+23.05.2022 09:07:07: getFiles initilized. Path = .git\logs\refs
+23.05.2022 09:07:07: getFiles initilized. Path = .git\logs
+23.05.2022 09:07:07: getFiles initilized. Path = .git
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\03
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\09
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\0c
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\0d
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\10
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\13
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\15
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\16
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\19
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\1b
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\1e
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\21
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\22
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\25
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\32
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\35
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\37
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\39
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\3e
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\46
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\57
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\5f
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\60
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\63
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\6a
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\70
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\76
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\7b
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\7c
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\7d
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\7e
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\80
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\84
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\85
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\86
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\87
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\89
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\8b
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\8c
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\8d
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\90
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\92
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\93
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\94
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\a0
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\a2
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\a4
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\a5
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\a7
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\a9
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\aa
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\b2
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\b6
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\be
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\c1
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\c3
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\c4
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\c6
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\cb
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\cf
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\d5
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\d6
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\d7
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\de
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\e1
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\e7
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\e9
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\eb
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\f1
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\f5
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\f9
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\fa
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\fb
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\ff
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\info
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects\pack
+23.05.2022 09:07:07: getFiles initilized. Path = .git\objects
+23.05.2022 09:07:07: getFiles initilized. Path = .git
+23.05.2022 09:07:07: getFiles initilized. Path = .git\refs
+23.05.2022 09:07:07: getFiles initilized. Path = .git\refs\heads
+23.05.2022 09:07:07: getFiles initilized. Path = .git\refs
+23.05.2022 09:07:07: getFiles initilized. Path = .git\refs\remotes
+23.05.2022 09:07:08: getFiles initilized. Path = .git\refs\remotes\origin
+23.05.2022 09:07:08: getFiles initilized. Path = .git\refs\remotes
+23.05.2022 09:07:08: getFiles initilized. Path = .git\refs
+23.05.2022 09:07:08: getFiles initilized. Path = .git\refs\tags
+23.05.2022 09:07:08: getFiles initilized. Path = .git\refs
+23.05.2022 09:07:08: getFiles initilized. Path = .git
+23.05.2022 09:07:08: getFiles initilized. Path = 
+23.05.2022 09:07:08: getFiles initilized. Path = .vs
+23.05.2022 09:07:08: getFiles initilized. Path = .vs\VideoCheck
+23.05.2022 09:07:08: getFiles initilized. Path = .vs\VideoCheck\v15
+23.05.2022 09:07:08: getFiles initilized. Path = .vs\VideoCheck
+23.05.2022 09:07:08: getFiles initilized. Path = .vs
+23.05.2022 09:07:08: getFiles initilized. Path = .vs\VideoValidator
+23.05.2022 09:07:08: getFiles initilized. Path = .vs\VideoValidator\v15
+23.05.2022 09:07:08: getFiles initilized. Path = .vs\VideoValidator\v15\ipch
+23.05.2022 09:07:08: getFiles initilized. Path = .vs\VideoValidator\v15\ipch\AutoPCH
+23.05.2022 09:07:08: getFiles initilized. Path = .vs\VideoValidator\v15\ipch\AutoPCH\13918568c6371354
+23.05.2022 09:07:08: getFiles initilized. Path = .vs\VideoValidator\v15\ipch\AutoPCH
+23.05.2022 09:07:08: getFiles initilized. Path = .vs\VideoValidator\v15\ipch\AutoPCH\198bde383d7a4e20
+23.05.2022 09:07:08: getFiles initilized. Path = .vs\VideoValidator\v15\ipch\AutoPCH
+23.05.2022 09:07:08: getFiles initilized. Path = .vs\VideoValidator\v15\ipch\AutoPCH\62962e884129fb0
+23.05.2022 09:07:08: getFiles initilized. Path = .vs\VideoValidator\v15\ipch\AutoPCH
+23.05.2022 09:07:08: getFiles initilized. Path = .vs\VideoValidator\v15\ipch\AutoPCH\98fcd8fbf11fbbf
+23.05.2022 09:07:08: getFiles initilized. Path = .vs\VideoValidator\v15\ipch\AutoPCH
+23.05.2022 09:07:08: getFiles initilized. Path = .vs\VideoValidator\v15\ipch\AutoPCH\a2614e7a5004bf6f
+23.05.2022 09:07:08: getFiles initilized. Path = .vs\VideoValidator\v15\ipch\AutoPCH
+23.05.2022 09:07:08: getFiles initilized. Path = .vs\VideoValidator\v15\ipch
+23.05.2022 09:07:08: getFiles initilized. Path = .vs\VideoValidator\v15
+23.05.2022 09:07:08: getFiles initilized. Path = .vs\VideoValidator
+23.05.2022 09:07:08: getFiles initilized. Path = .vs
+23.05.2022 09:07:08: getFiles initilized. Path = 
+23.05.2022 09:07:08: getFiles initilized. Path = x64
+23.05.2022 09:07:08: getFiles initilized. Path = x64\Debug
+23.05.2022 09:07:08: getFiles initilized. Path = x64\Debug\VideoValidator.tlog
+23.05.2022 09:07:08: getFiles initilized. Path = x64\Debug
+23.05.2022 09:07:08: getFiles initilized. Path = x64
+23.05.2022 09:07:08: getFiles initilized. Path = x64\Release
+23.05.2022 09:07:08: getFiles initilized. Path = x64\Release\VideoValidator.tlog
+23.05.2022 09:07:08: getFiles initilized. Path = x64\Release
+23.05.2022 09:07:08: getFiles initilized. Path = x64
+23.05.2022 09:07:08: getFiles initilized. Path = 
+23.05.2022 09:07:08: No files were found
+23.05.2022 09:07:08: Completed 0 files
+Valid video files: 			0
+Invalid files: 			0
+No Audio: 			0
+23.05.2022 09:07:08: Message 2: DBT_DEVICEARRIVAL
+
+23.05.2022 09:07:08: Device changed: 
+23.05.2022 09:07:08: Message 3: DBT_DEVNODES_CHANGED
+
+23.05.2022 09:07:08: Device changed: 
+23.05.2022 09:07:08: getFiles initilized. Path = E:
+23.05.2022 09:07:08: getFiles initilized. Path = E:\New folder
+23.05.2022 09:07:08: getFiles initilized. Path = E:
+23.05.2022 09:07:08: getFiles initilized. Path = E:\System Volume Information
+23.05.2022 09:07:08: getFiles initilized. Path = E:
+23.05.2022 09:07:08: Showing results from 16 files found
+23.05.2022 09:07:08: => Error opening file
+23.05.2022 09:07:08: File E:\Resident-Alien-S01E01-HDTV.XVID-HebSub-www.Moridim.Club.avi can't be opened
+
+23.05.2022 09:07:09: => Error opening file
+23.05.2022 09:07:09: File E:\The-Resident-S05E20-HDTV-XVID-HebSub-www.Moridim.Club.avi can't be opened
+
+23.05.2022 09:07:09: => Video file corrupted
+23.05.2022 09:07:09: File E:\The-Resident-S05E21-XviD-AFG-HebSub-www.Moridim.Club.avi is corrupted
+
+23.05.2022 09:07:10: Completed 16 files
+Valid video files: 			13
+Invalid files: 			3
+No Audio: 			0
+23.05.2022 09:07:10: Message 4: DBT_DEVICEARRIVAL
+
+23.05.2022 09:07:10: Device changed: E:
+23.05.2022 09:07:10: Message 5: DBT_DEVNODES_CHANGED
+
+23.05.2022 09:07:10: Device changed: 
+23.05.2022 09:07:31: Message 6: DBT_DEVICEREMOVECOMPLETE
+
+23.05.2022 09:07:31: Device changed: 
+23.05.2022 09:07:31: Message 7: DBT_DEVNODES_CHANGED
+
+23.05.2022 09:07:31: Device changed: 
+23.05.2022 09:07:31: Message 8: DBT_DEVNODES_CHANGED
+
+23.05.2022 09:07:31: Device changed: 
+23.05.2022 09:07:31: Message 9: DBT_DEVICEREMOVECOMPLETE
+
+23.05.2022 09:07:31: Device changed: -E
+23.05.2022 09:30:21: Started
+
+23.05.2022 09:30:32: Message 1: DBT_DEVNODES_CHANGED
+
+23.05.2022 09:30:32: Device changed: 
+23.05.2022 09:30:33: No files were found
+23.05.2022 09:30:33: Completed 0 files
+Valid video files: 			0
+Invalid files: 			0
+No Audio: 			0
+23.05.2022 09:30:33: Message 2: DBT_DEVICEARRIVAL
+
+23.05.2022 09:30:33: Device changed: 
+23.05.2022 09:30:33: Message 3: DBT_DEVNODES_CHANGED
+
+23.05.2022 09:30:33: Device changed: 
+23.05.2022 09:30:33: Showing results from 16 files found
+23.05.2022 09:30:33: => Error opening file
+23.05.2022 09:30:33: File E:\Resident-Alien-S01E01-HDTV.XVID-HebSub-www.Moridim.Club.avi can't be opened
+
+23.05.2022 09:30:34: => Error opening file
+23.05.2022 09:30:34: File E:\The-Resident-S05E20-HDTV-XVID-HebSub-www.Moridim.Club.avi can't be opened
+
+23.05.2022 09:30:34: => Video file corrupted
+23.05.2022 09:30:34: File E:\The-Resident-S05E21-XviD-AFG-HebSub-www.Moridim.Club.avi is corrupted
+
+23.05.2022 09:30:35: Completed 16 files
+Valid video files: 			13
+Invalid files: 			3
+No Audio: 			0
+23.05.2022 09:30:35: Message 4: DBT_DEVICEARRIVAL
+
+23.05.2022 09:30:35: Device changed: E:
+23.05.2022 09:30:35: Message 5: DBT_DEVNODES_CHANGED
+
+23.05.2022 09:30:35: Device changed: 
+23.05.2022 09:33:40: Message 6: DBT_DEVNODES_CHANGED
+
+23.05.2022 09:33:40: Device changed: 
+23.05.2022 09:33:40: Message 7: DBT_DEVICEREMOVECOMPLETE
+
+23.05.2022 09:33:40: Device changed: 
+23.05.2022 09:33:40: Message 8: DBT_DEVICEREMOVECOMPLETE
+
+23.05.2022 09:33:40: Device changed: -E
+23.05.2022 09:33:40: Message 9: DBT_DEVNODES_CHANGED
+
+23.05.2022 09:33:40: Device changed: 
+23.05.2022 09:41:41: Message 10: DBT_DEVNODES_CHANGED
+
+23.05.2022 09:41:41: Device changed: 
+23.05.2022 09:41:41: No files were found
+23.05.2022 09:41:41: Completed 0 files
+Valid video files: 			0
+Invalid files: 			0
+No Audio: 			0
+23.05.2022 09:41:41: Message 11: DBT_DEVICEARRIVAL
+
+23.05.2022 09:41:41: Device changed: 
+23.05.2022 09:41:42: Showing results from 16 files found
+23.05.2022 09:41:42: => Error opening file
+23.05.2022 09:41:42: File E:\Resident-Alien-S01E01-HDTV.XVID-HebSub-www.Moridim.Club.avi can't be opened
+
+23.05.2022 09:41:42: => Error opening file
+23.05.2022 09:41:42: File E:\The-Resident-S05E20-HDTV-XVID-HebSub-www.Moridim.Club.avi can't be opened
+
+23.05.2022 09:41:42: => Video file corrupted
+23.05.2022 09:41:42: File E:\The-Resident-S05E21-XviD-AFG-HebSub-www.Moridim.Club.avi is corrupted
+
+23.05.2022 09:41:44: Completed 16 files
+Valid video files: 			13
+Invalid files: 			3
+No Audio: 			0
+23.05.2022 09:41:44: Message 12: DBT_DEVICEARRIVAL
+
+23.05.2022 09:41:44: Device changed: E:
+23.05.2022 09:41:44: Message 13: DBT_DEVNODES_CHANGED
+
+23.05.2022 09:41:44: Device changed: 
+23.05.2022 09:41:44: Message 14: DBT_DEVNODES_CHANGED
+
+23.05.2022 09:41:44: Device changed: 
